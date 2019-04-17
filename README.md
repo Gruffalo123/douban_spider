@@ -1,6 +1,6 @@
 # douban_spider
 scrapy douban_movie
-
+简单的爬虫——爬取豆瓣TOP250电影
 
 一、安装scrapy、mongodb
 
